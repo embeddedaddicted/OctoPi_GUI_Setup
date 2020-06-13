@@ -18,7 +18,7 @@ So what exactly is OctoPrint? Here is a list of things OctoPrint allows you to d
 ### Hardware Prerequisites:
 
 * Raspberry Pi (Model 3B or later, Raspberry Pi Zero/Zero W not recommended)
-* 5.1V - 2.5 A Micro USB power supply (For the RPi)
+* 5.1V/2.5 A Micro USB power supply (For the RPi)
 * MicroSD card (preferably 16GB or larger)
 * MicroSD card reader
 * USB Mouse and Keyboard
