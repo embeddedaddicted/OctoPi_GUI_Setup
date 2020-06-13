@@ -2,7 +2,7 @@
 
 A quick and easy guide to setting up OctoPi for beginners with zero experience. Follow these steps to setup OctoPi OS on your Raspberry Pi in a few basic steps regardless of your machine's operating system.
 
-(Insert OctoPi Image)
+![Octopi image](https://user-images.githubusercontent.com/64366648/84556016-58e23580-ad20-11ea-9105-232916981913.jpg)
 
 So what exactly is OctoPrint? Here is a list of things OctoPrint allows you to do:
 
@@ -31,12 +31,14 @@ So what exactly is OctoPrint? Here is a list of things OctoPrint allows you to d
 * Download the latest image of OctoPi from
 https://octoprint.org/download/
 
-(Insert Download Page Image)
+<img width="1440" alt=" " src="https://user-images.githubusercontent.com/64366648/84555969-11f44000-ad20-11ea-85c6-29e10392f7eb.png">
 
 * Next download an etching tool:
 https://www.balena.io/etcher/
 
-(Insert Download Page Image)
+<img width="1440" alt=" " src="https://user-images.githubusercontent.com/64366648/84556036-757e6d80-ad20-11ea-99a6-8622c362505d.png">
+
+
 
 * Insert the MicroSD card into the MicroSD card reader and connect it to your machine.
 
@@ -54,7 +56,7 @@ https://www.balena.io/etcher/
 
 * After the boot is complete, you will see the following:
 
-(picture of octopi login)
+![OctoPi Login](https://user-images.githubusercontent.com/64366648/84556109-ec1b6b00-ad20-11ea-9ee3-7123f930bc2d.png)
 
 * octopi login: pi
 * Password : raspberry
@@ -71,11 +73,13 @@ You are now sucessfully logged in!
 
 * Use the arrow keys to navigate to "Network Options"
 
-(Insert Picture)
+![ ](https://user-images.githubusercontent.com/64366648/84556137-110fde00-ad21-11ea-8726-bd4332c18117.png)
+
 
 * Select "N2 Wi-fi"
 
-(Insert Picture)
+![ ](https://user-images.githubusercontent.com/64366648/84556209-25ec7180-ad21-11ea-819f-c04b43b368b2.png)
+
 
 * Enter the SSID (Name of your Wifi network), and click "<Ok>".
 * Enter the password of the Wifi (if none, leave blank), and click "<Ok>".
@@ -90,9 +94,7 @@ Enter:
 
 * Enter the password, press any key to continue.
 
-* You will be asked whether you want the Pi to boot up into a desktop environment by default. Type ‘yes’. We can disable this functionality later on if we want to.
-
-(Add picture)
+* You will be asked whether you want the Pi to boot up into a desktop environment by default. Type ‘yes’ and hit Enter. We can disable this functionality later on if we want to.
 
 * The resources for the desktop GUI will now download and install automatically
 * When complete, Type: 
@@ -103,11 +105,12 @@ The Pi will now reboot to OctoPi Desktop GUI.
 
 * Enter the username and password.
 
-(Insert picture)
+![4](https://user-images.githubusercontent.com/64366648/84556230-57653d00-ad21-11ea-913b-9f830dc7ebf6.png)
 
 Your OctoPi GUI is now ready!
 
-(Insert Picture)
+![The OctoPi Desktop GUI](https://user-images.githubusercontent.com/64366648/84556245-7ebc0a00-ad21-11ea-9fbe-6b6a640fc52d.png)
+
 
 ## Next: How to enable remote access to OctoPi using VNC, control your 3D printer remotely:
 
