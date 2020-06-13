@@ -114,7 +114,7 @@ Your OctoPi GUI is now ready!
 
 ## Next: How to enable remote access to OctoPi using VNC, control your 3D printer remotely:
 
-(Link)
+Stay tuned...
 
 ## Meta
 
