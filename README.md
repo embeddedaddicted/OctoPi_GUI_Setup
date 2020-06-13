@@ -115,9 +115,9 @@ Your OctoPi GUI is now ready!
 
 ## Meta
 
-Harshit Shandilya (https://www.linkedin.com/in/harshitshandilya/
+**Harshit Shandilya - (https://www.linkedin.com/in/harshitshandilya/ **
 
-Distributed under the MagPi License: CC BY-NC-SA license. See ``LICENSE`` for more information.
+Distributed under the MagPi License: CC BY-NC-SA license.
 
 https://github.com/shandilyaguy247
 
@@ -125,7 +125,7 @@ https://github.com/shandilyaguy247
 
 1. Fork it
 2. Create your feature branch (`git checkout -b`)
-3. Commit your changes (`git commit -am)
-4. Push to the branch (`git push origin)
+3. Commit your changes (`git commit -am`)
+4. Push to the branch (`git push origin`)
 5. Create a new Pull Request
 6. For major changes, please open an issue first to discuss what you would like to change.
