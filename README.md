@@ -10,7 +10,7 @@ So what exactly is OctoPrint? Here is a list of things OctoPrint allows you to d
 * Manually control a 3D printer (moving the X-, Y-, and Z-axes as well as forcing extrusion)
 * Monitor print temperature and change print settings
 * Set up a webcam to view the Print in real time and create time lapse videos
-* Slice models using CuraEngine
+* Slice models using CuraEngine Legacy
 * Customize operation with numerous plug-ins
 
 ## Installation
@@ -59,13 +59,13 @@ https://www.balena.io/etcher/
 * octopi login: pi
 * Password : raspberry
 
-* You are now sucessfully logged in!
+You are now sucessfully logged in!
 
 ### Enable GUI:
 
-* Enter the following commands into the bash terminal:
+* Enter the following command into the bash terminal:
 
-**sudo raspi-config**
+>> sudo raspi-config
 
 * Re-enter the password.
 
@@ -82,11 +82,11 @@ https://www.balena.io/etcher/
 
 * Click "<Finish>"
 
-* You are now back in the bash command line.
+You are now back in the bash command line.
 
-* Enter:
+Enter:
 
-**sudo /home/pi/scripts/install-desktop**
+>> sudo /home/pi/scripts/install-desktop
 
 * Enter the password, press any key to continue.
 
@@ -97,21 +97,21 @@ https://www.balena.io/etcher/
 * The resources for the desktop GUI will now download and install automatically
 * When complete, Type: 
 
-**sudo reboot**
+>> sudo reboot
 
-* The Pi will now reboot to OctoPi Desktop GUI.
+The Pi will now reboot to OctoPi Desktop GUI.
 
 * Enter the username and password.
 
 (Insert picture)
 
-* Your OctoPi GUI is now ready!
+Your OctoPi GUI is now ready!
 
 (Insert Picture)
 
 ## Next: How to enable remote access to OctoPi using VNC, control your 3D printer remotely:
 
-* (Link)
+(Link)
 
 ## Meta
 
