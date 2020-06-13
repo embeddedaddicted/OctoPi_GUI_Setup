@@ -1,4 +1,4 @@
-# OctoPi_GUI_Setup
+# OctoPi GUI Setup
 
 A quick and easy guide to setting up OctoPi for beginners with zero experience. Follow these steps to setup OctoPi OS on your Raspberry Pi in a few basic steps regardless of your machine's operating system.
 
