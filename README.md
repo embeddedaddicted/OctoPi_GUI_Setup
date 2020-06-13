@@ -120,7 +120,7 @@ Stay tuned...
 
 **Harshit Shandilya - (https://www.linkedin.com/in/harshitshandilya/ **
 
-Distributed under the MagPi License: CC BY-NC-SA license.
+Affero General Public License (AGPL)
 
 https://github.com/shandilyaguy247
 
