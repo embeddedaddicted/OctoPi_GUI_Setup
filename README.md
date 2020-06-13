@@ -65,7 +65,7 @@ https://www.balena.io/etcher/
 
 * Enter the following commands into the bash terminal:
 
-sudo raspi-config
+**sudo raspi-config**
 
 * Re-enter the password.
 
@@ -86,7 +86,7 @@ sudo raspi-config
 
 * Enter:
 
-sudo /home/pi/scripts/install-desktop
+**sudo /home/pi/scripts/install-desktop**
 
 * Enter the password, press any key to continue.
 
@@ -97,7 +97,7 @@ sudo /home/pi/scripts/install-desktop
 * The resources for the desktop GUI will now download and install automatically
 * When complete, Type: 
 
-sudo reboot
+**sudo reboot**
 
 * The Pi will now reboot to OctoPi Desktop GUI.
 
