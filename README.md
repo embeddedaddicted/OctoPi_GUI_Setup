@@ -123,7 +123,7 @@ To update your RPi with all the latest packages and releases, type the following
 
 ### As soon as all the packages download and unpack, your Raspberry Pi - OctoPi is up and ready to use!
 
-## Next: How to enable remote access to OctoPi using VNC, control your 3D printer remotely:
+## Next: How to enable remote access to OctoPi using VNC:
 
 Stay tuned...
 
