@@ -121,7 +121,11 @@ To update your RPi with all the latest packages and releases, type the following
 
 * When prompted, enter "Y".
 
-### As soon as all the packages download and unpack, your Raspberry Pi - OctoPi is up and ready to use!
+After the processes have finished type:
+
+>> sudo reboot
+
+### Your Raspberry Pi - OctoPi is up and ready to use!
 
 ## Next: How to enable remote access to OctoPi using VNC:
 
