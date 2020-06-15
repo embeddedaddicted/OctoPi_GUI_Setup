@@ -125,6 +125,8 @@ After the processes have finished type:
 
 >> sudo reboot
 
+Your system will reboot with all the changes.
+
 ### Your Raspberry Pi - OctoPi is up and ready to use!
 
 ## Next: How to enable remote access to OctoPi using VNC:
