@@ -111,6 +111,17 @@ Your OctoPi GUI is now ready!
 
 ![The OctoPi Desktop GUI](https://user-images.githubusercontent.com/64366648/84556245-7ebc0a00-ad21-11ea-9fbe-6b6a640fc52d.png)
 
+To update your RPi with all the latest packages and releases, type the following:
+
+>> sudo apt update
+
+* Enter the password.
+
+>> sudo apt full-upgrade
+
+* When prompted, enter "Y".
+
+### As soon as all the packages download and unpack, your Raspberry Pi - OctoPi is up and ready to use!
 
 ## Next: How to enable remote access to OctoPi using VNC, control your 3D printer remotely:
 
